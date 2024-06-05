@@ -110,12 +110,8 @@ export const headerData = {
         },
       ],
     },
-    {
-      text: 'Widgets',
-      href: '#',
-    },
   ],
-  actions: [{ text: 'Download', href: 'https://github.com/onwidget/astrowind', target: '_blank' }],
+  actions: [{ text: 'Inscripcions', href: '/inscripcions', target: '_blank' }],
 };
 
 export const footerData = {
@@ -166,7 +162,7 @@ export const footerData = {
     },
   ],
   secondaryLinks: [
-    { text: 'Termes legals', href: getPermalink('/terms') },
+    { text: 'Avís legal', href: getPermalink('/terms') },
     { text: 'Política de privacitat', href: getPermalink('/privacy') },
   ],
   socialLinks: [

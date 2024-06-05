@@ -1,5 +1,5 @@
 site:
-  name: Esplai Sant Josep
+  name: Esplai Sant Josep de Girona
   site: 'https://esplaisantjosep.cat'
   base: '/'
   trailingSlash: false
@@ -10,7 +10,7 @@ site:
 metadata:
   title:
     default: Esplai Sant Josep de Girona
-    template: '%s — Esplai Sant Josep'
+    template: '%s — Esplai Sant Josep de Girona'
   description: "Educant en el lleure cada dissabte de 16h a 18h al casal d'hivern, projecte groc, colònies, campaments i rutes."
   robots:
     index: true
