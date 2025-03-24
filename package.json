@@ -1,7 +1,7 @@
 {
-  "name": "@onwidget/astrowind",
-  "version": "1.0.0-beta.35",
-  "description": "AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme.",
+  "name": "inscrip",
+  "version": "1.0.0",
+  "description": "Inscrip, la gestió digital del lleure",
   "type": "module",
   "private": true,
   "engines": {
@@ -17,6 +17,7 @@
     "lint:eslint": "eslint ."
   },
   "dependencies": {
+    "@apostrophecms/cli": "^3.4.0",
     "@astrojs/rss": "^4.0.6",
     "@astrojs/sitemap": "^3.1.5",
     "@astrolib/analytics": "^0.5.0",
@@ -36,7 +37,7 @@
     "@eslint/js": "^9.4.0",
     "@iconify-json/flat-color-icons": "^1.1.10",
     "@iconify-json/tabler": "^1.1.113",
-    "@playform/compress": "0.0.10",
+    "@playform/compress": "^0.1.6",
     "@tailwindcss/typography": "^0.5.13",
     "@types/eslint__js": "^8.42.3",
     "@types/js-yaml": "^4.0.9",
